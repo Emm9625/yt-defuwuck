@@ -7,48 +7,30 @@
 ! License: https://github.com/Emm9625/yt-defuwuck/blob/main/LICENSE.md
 
 
-! Hide Shorts shewves on da homepage
 www.youtube.com##ytd-rich-section-renderer:has(a[href^="/shorts/"])
 
-! Hide Shorts shewves on da seawch page
 www.youtube.com##ytd-search grid-shelf-view-model:has(a[href^="/shorts/"])
-! Hide da Shorts seawch tab
 www.youtube.com##yt-chip-cloud-chip-renderer:has(*:has-text(/^Shorts$/i))
 
-! Hide da Shorts button in da sidebaw
 www.youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
-! Hide da Shorts button in da mini guide
 www.youtube.com##ytd-mini-guide-entry-renderer:has(.title:has-text(/^Shorts$/i))
 
-! Hide Shorts sections except on da histowy page
 www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-rich-section-renderer:has(#title:has-text(/(^| )Shorts( |$)/i))
 www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(/(^| )Shorts( |$)/i))
 
-! Hide da Shorts tab on channew pages
 www.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
 
-! Hide Shorts wemix shewves in descwiptions and suggestions
 www.youtube.com##ytd-reel-shelf-renderer:has(#title:has-text(/(^| )Shorts.?Remix.*$/i))
 
-!!!!!!!!!!!!!!
-!!! MOBIWE !!!
-!!!!!!!!!!!!!!
-
-! Hide da Shorts button in da bottom nav
 m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
 
-! Hide da Shorts tab on channew pages
 m.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
 
-! Hide Shorts sections except on da histowy page
 m.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytm-rich-section-renderer:has(.yt-core-attributed-string:has-text(/(^| )Shorts( |$)/i))
 m.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytm-reel-shelf-renderer.item:has(.reel-shelf-title-wrapper .yt-core-attributed-string:has-text(/(^| )Shorts( |$)/i))
 
-! Hide Shorts wemix shewves in descwiptions and bewow da pwayew
 m.youtube.com##ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper .yt-core-attributed-string:has-text(/(^| )Shorts.?Remix.*$/i))
 
-! Hide da Shorts categowy chip on da homepage
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^Shorts$/i))
 
-! Hide Shorts sections on da seawch page
 m.youtube.com##ytm-reel-shelf-renderer:has(ytm-shorts-lockup-view-model)

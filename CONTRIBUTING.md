@@ -24,6 +24,7 @@ Da genewated `dist/masterlist.txt` has its own metadata and is webuilt fwom da m
 - don’t hand-edit `dist/masterlist.txt`
 - da genewated output bewongs in `dist/`
 - keep each moduwe’s metadata at da top, fowwowed by a bwank wine, so da mastewwist buiwd can stwip da pweambwe cweanwy
+- `dist/masterlist.txt` is a nowmawized distwibution fiwe: it keeps da top-wevew metadata, but stwips moduwe comments and source-wefewencing noise
 
 ## use da fuww subdomain
 Don’t stawt a fiwtew with `youtube.com`; use `www.youtube.com` ow `m.youtube.com` instead.

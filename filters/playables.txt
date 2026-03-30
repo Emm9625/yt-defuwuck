@@ -6,11 +6,8 @@
 ! Homepage: https://github.com/Emm9625/yt-defuwuck
 ! License: https://github.com/Emm9625/yt-defuwuck/blob/main/LICENSE.md
 
-! Hide Playables shewves on da homepage
 www.youtube.com##ytd-rich-section-renderer:has(a[href^="/playables/"])
 
-! Hide Playables shewves on da seawch page
 www.youtube.com##ytd-search grid-shelf-view-model:has(a[href^="/playables/"])
 
-! Hide da Playables categowy chip on da mobiwe homepage
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^YouTube Playables$/i))
