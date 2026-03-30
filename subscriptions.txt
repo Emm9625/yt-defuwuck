@@ -1,0 +1,10 @@
+! Title: yt-defuwuck — Subscriptions moduwe
+! Description: yt-defuwuck moduwe fow hiding annoying subscriptions-feed UI on YouTube
+! Version: 2026.3.30
+! Last modified: 2026-03-30 13:26
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/Emm9625/yt-defuwuck
+! License: https://github.com/Emm9625/yt-defuwuck/blob/main/LICENSE.md
+
+! Hide da Most welevant shewf on da subscriptions page
+www.youtube.com##:matches-path(/^\/feed\/subscriptions$/) ytd-rich-section-renderer:has(#title:has-text(/^Most relevant$/i))

@@ -33,6 +33,15 @@ Raw wist:
 
 [> uBlock Origin subscribe link <](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/playables.txt) (does not work on GitHub)
 
+### Subscriptions moduwe
+
+Use dis if u want to hide annoying subscriptions-feed suwfaces wike da Most welevant shewf.
+
+Raw wist:
+`https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/subscriptions.txt`
+
+[> uBlock Origin subscribe link <](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/subscriptions.txt) (does not work on GitHub)
+
 ## maintenace
 
 Dis pwoject is maintained at [Emm9625/yt-defuwuck](https://github.com/Emm9625/yt-defuwuck).

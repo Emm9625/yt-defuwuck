@@ -6,6 +6,7 @@ if u wanna send a puww wequest to `yt-defuwuck`, keep it tight and usefuw uwu
 - `list.txt` is da Shorts moduwe
 - `comments.txt` is da comments moduwe
 - `playables.txt` is da Playables moduwe
+- `subscriptions.txt` is da subscriptions moduwe
 
 don’t dump unwewated bwocks into da wwong fiwe just because it was convenient.
 
