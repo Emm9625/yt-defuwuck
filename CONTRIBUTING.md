@@ -15,6 +15,15 @@ keep da fiwes undew `filters/` and keep one cweaw moduwe pew fiwe.
 *Metadata = Title, Version, Last modified, Expires, Homepage, and License at da top of each wist.*
 
 Onwy maintainers shouwd update dat stuff. Metadata needs to stay centwawized so vewsions and wewease info don’t get messy.
+Da genewated `dist/masterlist.txt` has its own metadata and is webuilt fwom da moduwe fiwes.
+
+## webuild da mastewwist
+- edit da moduwe fiwes in `filters/`
+- wun `make masterlist` afta changing any moduwe
+- wun `make verify` befowe commit
+- don’t hand-edit `dist/masterlist.txt`
+- da genewated output bewongs in `dist/`
+- keep each moduwe’s metadata at da top, fowwowed by a bwank wine, so da mastewwist buiwd can stwip da pweambwe cweanwy
 
 ## use da fuww subdomain
 Don’t stawt a fiwtew with `youtube.com`; use `www.youtube.com` ow `m.youtube.com` instead.

@@ -28,6 +28,12 @@ Hide annoying subscriptions-feed suwfaces wike da Most welevant shewf.
 - waw wist: `https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/subscriptions.txt`
 - subscwibe: [uBlock Origin link](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/subscriptions.txt)
 
+### Masterlist
+Combine evewy moduwe in canonwicaw owdew: Shorts, Comments, Playables, den Subscriptions.
+- waw wist: `https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/dist/masterlist.txt`
+- subscwibe: [uBlock Origin link](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/dist/masterlist.txt)
+- note: dis fiwe is genewated by `make masterlist` into `dist/`, so edit da moduwes in `filters/` instead of editing it diwectwy
+
 ## maintenace
 
 Dis pwoject is maintained at [Emm9625/yt-defuwuck](https://github.com/Emm9625/yt-defuwuck).
