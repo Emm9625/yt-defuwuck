@@ -3,12 +3,13 @@
 if u wanna send a puww wequest to `yt-defuwuck`, keep it tight and usefuw uwu
 
 ## keep each moduwe scoped
-- `list.txt` is da Shorts moduwe
-- `comments.txt` is da comments moduwe
-- `playables.txt` is da Playables moduwe
-- `subscriptions.txt` is da subscriptions moduwe
+- `filters/shorts.txt` is da Shorts moduwe
+- `filters/comments.txt` is da comments moduwe
+- `filters/playables.txt` is da Playables moduwe
+- `filters/subscriptions.txt` is da subscriptions moduwe
 
 don’t dump unwewated bwocks into da wwong fiwe just because it was convenient.
+keep da fiwes undew `filters/` and keep one cweaw moduwe pew fiwe.
 
 ## don’t touch da metadata headew
 *Metadata = Title, Version, Last modified, Expires, Homepage, and License at da top of each wist.*

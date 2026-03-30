@@ -4,47 +4,37 @@
 
 It keeps sepawate moduwes so u can mix and match da bwocks u actuawwy want instead of impowting a huge evewything-wist.
 
+Each moduwe now wives undew `filters/` so da wepo stwuctuwe matches da suite’s actuaw moduwaw wayout.
+
 ## moduwes
 
-### Shorts moduwe
+### Shorts
+Hide Shorts suwfacing, tabs, shewves, and othew Shorts cwuttew.
+- waw wist: `https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/shorts.txt`
+- subscwibe: [uBlock Origin link](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/shorts.txt)
 
-Use dis if u want to hide Shorts suwfacing, tabs, shewves, and othew Shorts cwuttew.
+### Comments
+Hide YouTube comments and comment-heavy UI bits.
+- waw wist: `https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/comments.txt`
+- subscwibe: [uBlock Origin link](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/comments.txt)
 
-Raw wist:
-`https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/list.txt`
+### Playables
+Hide YouTube Playables pwomotion suwfacing.
+- waw wist: `https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/playables.txt`
+- subscwibe: [uBlock Origin link](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/playables.txt)
 
-[> uBlock Origin subscribe link <](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/list.txt) (does not work on GitHub)
-
-### Comments moduwe
-
-Use dis if u want to hide YouTube comments and comment-heavy UI bits.
-
-Raw wist:
-`https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/comments.txt`
-
-[> uBlock Origin subscribe link <](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/comments.txt) (does not work on GitHub)
-
-### Playables moduwe
-
-Use dis if u want to hide YouTube Playables pwomotion suwfacing.
-
-Raw wist:
-`https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/playables.txt`
-
-[> uBlock Origin subscribe link <](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/playables.txt) (does not work on GitHub)
-
-### Subscriptions moduwe
-
-Use dis if u want to hide annoying subscriptions-feed suwfaces wike da Most welevant shewf.
-
-Raw wist:
-`https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/subscriptions.txt`
-
-[> uBlock Origin subscribe link <](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/subscriptions.txt) (does not work on GitHub)
+### Subscriptions
+Hide annoying subscriptions-feed suwfaces wike da Most welevant shewf.
+- waw wist: `https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/subscriptions.txt`
+- subscwibe: [uBlock Origin link](ubo:subscribe?location=https://raw.githubusercontent.com/Emm9625/yt-defuwuck/main/filters/subscriptions.txt)
 
 ## maintenace
 
 Dis pwoject is maintained at [Emm9625/yt-defuwuck](https://github.com/Emm9625/yt-defuwuck).
+
+## pwovenance
+
+Dis suite was shaped into its cuwwent opinionated moduwaw fowm hewe, but it still keeps upstweam attwibution in `LICENSE.md` fow dewived wowk histowy.
 
 ## no affiliation to Alphabet, YouTube, ow Google
 
