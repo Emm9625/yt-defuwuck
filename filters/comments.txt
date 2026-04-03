@@ -6,6 +6,4 @@
 ! Homepage: https://github.com/Emm9625/yt-defuwuck
 ! License: https://github.com/Emm9625/yt-defuwuck/blob/main/LICENSE.md
 
-www.youtube.com###comments > .ytd-comments.style-scope
-
 www.youtube.com##reel-action-bar-view-model dislike-button-view-model + *

@@ -1,7 +1,7 @@
 ! Title: yt-defuwuck — Masterlist
 ! Description: Combined yt-defuwuck masterlist in canonical module order
-! Version: 2026.3.30
-! Last modified: 2026-03-30 03:33
+! Version: 2026.4.3
+! Last modified: 2026-04-03 06:58
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/Emm9625/yt-defuwuck
 ! License: https://github.com/Emm9625/yt-defuwuck/blob/main/LICENSE.md
@@ -34,8 +34,6 @@ m.youtube.com##ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper .yt-core-at
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^Shorts$/i))
 
 m.youtube.com##ytm-reel-shelf-renderer:has(ytm-shorts-lockup-view-model)
-
-www.youtube.com###comments > .ytd-comments.style-scope
 
 www.youtube.com##reel-action-bar-view-model dislike-button-view-model + *
 
